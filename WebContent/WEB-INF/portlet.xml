@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" id="mx.com.amx.unotv.mapelec.MX_UNO_PBO_MAP_ELEPortlet.29996c3d75">
+	<portlet>
+		<portlet-name>MX_UNO_PBO_MAP_ELE</portlet-name>
+		<display-name xml:lang="es">MX_UNO_PBO_MAP_ELE</display-name>
+		<display-name>MX_UNO_PBO_MAP_ELE</display-name>
+		<portlet-class>mx.com.amx.unotv.mapelec.MX_UNO_PBO_MAP_ELEPortlet</portlet-class>
+		<init-param>
+			<name>wps.markup</name>
+			<value>html</value>
+		</init-param>
+		<expiration-cache>0</expiration-cache>
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+		<supported-locale>es</supported-locale>
+		<resource-bundle>mx.com.amx.unotv.mapelec.nl.MX_UNO_PBO_MAP_ELEPortletResource</resource-bundle>
+		<portlet-info>
+			<title>MX_UNO_PBO_MAP_ELE</title>
+			<short-title>MX_UNO_PBO_MAP_ELE</short-title>
+			<keywords>MX_UNO_PBO_MAP_ELE</keywords>
+		</portlet-info>
+	</portlet>
+	<default-namespace>http://MX_UNO_PBO_MAP_ELE/</default-namespace>
+</portlet-app>

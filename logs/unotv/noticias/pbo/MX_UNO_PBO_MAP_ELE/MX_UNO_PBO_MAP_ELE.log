@@ -1,0 +1,2 @@
+[17 oct 2016 13:17:53]DEBUG mx.com.amx.unotv.mapelec.util.ReadJSONWebServer [28] - Conectandose a: http://dev-unotv.tmx-internacional.net/portal/unotv/utils/json/mapa-elecciones/mapa-elecciones.json
+[17 oct 2016 13:17:54]DEBUG mx.com.amx.unotv.mapelec.util.ReadJSONWebServer [49] - Termino lectura del WebServer
